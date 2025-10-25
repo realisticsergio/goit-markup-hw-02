@@ -3,7 +3,7 @@
 
 body {
     font-family: "Roboto", sans-serif;
-    color: #2E2F42;
+    color: #434455;
     background-color: #fff;
 }
 
@@ -25,6 +25,7 @@ a {
 }
 .header-logo .logo-part {
    color: #2E2F42;
+
 }
 .footer-logo .logo-part {
     color: #f4f4fd;
@@ -54,9 +55,36 @@ a {
 .nav-link:hover,
 .nav-link:focus,
 .Contacts-link:hover,
-.Contacts-link:focus {
+.Contacts-link:focus,
+.main-buton:hover,
+.main-buton:focus {
     color :#404bbf;
 }
+.hero-section {
+    background-color: #2e2f42;
+}
+.header {
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 107%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+
+.main-buton {
+    background-color: #4D5AE5;
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.04em;
+        color: #fff;
+        cursor: pointer;
+        padding: 16px 32px;
+            border-radius: 4px;
+            border: none; 
+}
+button 
 .footer-page {
     background-color: #2E2F42;
 }
