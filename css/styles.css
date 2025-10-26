@@ -82,9 +82,9 @@ a {
         color: #fff;
         cursor: pointer;
 }
-.main-buton:hover,
-.main-buton:focus {
-    background-color: #4D5AE5;
+.main-button:hover,
+.main-button:focus {
+    background-color: #404BBF;
 
 }
 .future-title {
