@@ -54,10 +54,12 @@ a {
         color: #434455;
 }
 .nav-link:hover,
-.nav-link:focus,
-.Contacts-link:hover,
-.Contacts-link:focus {
+.nav-link:focus {
     color: #404BBF
+}
+.contacts-link:hover,
+.contacts-link:focus {
+    color: #404BBF;
 }
 .hero-section {
     background-color: #2e2f42;
