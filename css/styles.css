@@ -47,11 +47,11 @@ a {
 .contacts {
     font-style: normal
 }
-.Contacts-link {
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+.contacts-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -73,21 +73,19 @@ a {
         color: #fff;
 }
 
-.main-buton {
+.main-button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-
-        color: #fff;
-        cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
 }
 .main-button:hover,
 .main-button:focus {
     background-color: #404BBF;
-
 }
 .future-title {
     font-weight: 500;
