@@ -59,7 +59,7 @@ a {
 .Contacts-link:focus,
 .main-buton:hover,
 .main-buton:focus {
-    color: #404BBF;
+    background-color: #404BBF
 }
 .hero-section {
     background-color: #2e2f42;
