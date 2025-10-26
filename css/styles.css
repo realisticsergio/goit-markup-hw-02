@@ -16,13 +16,13 @@ a {
     text-decoration: none;
 }
 .logo {
-    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
 }
 .header-logo .logo-part {
    color: #2E2F42;
@@ -35,7 +35,7 @@ a {
 .nav-link {
     font-weight: 500;
         font-size: 16px;
-        line-height: 150%;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2E2F42;
 }
@@ -49,7 +49,7 @@ a {
 }
 .Contacts-link {
         font-size: 16px;
-        line-height: 150%;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
@@ -59,7 +59,7 @@ a {
 .Contacts-link:focus,
 .main-buton:hover,
 .main-buton:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 .hero-section {
     background-color: #2e2f42;
